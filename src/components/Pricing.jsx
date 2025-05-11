@@ -29,7 +29,7 @@ const Pricing = () => {
       features: ['All QR Types', 'Advanced Customization', 'Analytics', 'Logo Upload', 'Priority Support'], 
       cta: 'Go Pro', 
       popular: true,
-      priceId: 'price_1PAbcdEfghIjklMnOpqRsTuV' // Replace with your actual Stripe Price ID for Pro plan
+      priceId: 'price_1RNZtaAdNb9itLY30G7PEg5c' // Replace with your actual Stripe Price ID for Pro plan
     },
     { 
       name: 'Business', 
@@ -37,7 +37,7 @@ const Pricing = () => {
       priceSuffix: '/mo', 
       features: ['All Pro Features', 'Bulk Generation', 'API Access', 'Team Collaboration', 'Dedicated Support'], 
       cta: 'Choose Business',
-      priceId: 'price_1PAbcdefGhijKlmnOpQrStUv' // Replace with your actual Stripe Price ID for Business plan
+      priceId: 'price_1RNZvAAdNb9itLY3dlShX3br' // Replace with your actual Stripe Price ID for Business plan
     },
   ];
 
